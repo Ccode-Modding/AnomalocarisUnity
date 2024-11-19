@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3cecf05b78b173605122a700874719c, type: 3}
   m_Name: AnomalocarisKW
   m_EditorClassIdentifier: 
-  word: Anomalocaris
+  word: anomalocaris
   isVerb: 0
   compatibleNouns: []
   specialKeywordResult: {fileID: 11400000, guid: 57b713e92b22f49458a384f42812489e,

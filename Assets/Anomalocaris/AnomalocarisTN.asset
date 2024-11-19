@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e80ae96b3eb9177eea5c8f9dadbcda1, type: 3}
   m_Name: AnomalocarisTN
   m_EditorClassIdentifier: 
-  displayText: 
+  displayText: 'Extinct shrimp
+
+
+'
   terminalEvent: 
   clearPreviousText: 0
   maxCharactersToType: 25
@@ -25,8 +28,8 @@ MonoBehaviour:
   buyUnlockable: 0
   returnFromStorage: 0
   itemCost: 0
-  creatureFileID: -1
-  creatureName: 
+  creatureFileID: 2147483647
+  creatureName: Anomalocaris
   storyLogFileID: -1
   overrideOptions: 0
   acceptAnything: 0
